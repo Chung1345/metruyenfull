@@ -1,0 +1,10 @@
+{
+  "id": "metruyenfull",
+  "name": "Metruyenfull",
+  "author": "Tên bạn",
+  "version": "1.0.0",
+  "sourceUrl": "https://metruyenfull.org/",
+  "iconUrl": "URL_ảnh_đại_diện",
+  "language": "vi",
+  "script": "./main.js"
+}
